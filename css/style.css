@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    background-color:#E0C9A9;
+    height:100%;
+}
+
+#manset {
+    padding-left: 0.5%;
+    font-style:italic; font-weight: bold; color:#000000;
+}
+#kaynak {
+    padding-left: 0.5%;
+    font-weight: bold;
+}
+#blackbar {
+    height: 0.5%; 
+    background-color: black;
+    width: 100%;
+}
+#baslik {
+    font-style:italic; font-weight: bold; font-size:2em; height: 7%; color:#5E2610;
+}
+header {
+    width: 100%; padding-top: 0.5%; height:95.5%;;
+}
+#section {
+    width: 100%; height: 100%; position:fixed;
+}
+#sectionalt {
+    width: 40%; height: 65%; position:absolute; left: 30%;
+}
+#tarifbaslik{
+    margin:2%; height: 10%; text-align: center;
+}
+#altbaslik {
+    margin:2%; height: 5%; text-align: left;
+}
+#maddeler {
+    height: 5%; text-align: left;
+}
+#finish {
+    font-family: 'Sono', sans-serif;
+    text-align: right;
+    color:#000000;
+    height: 3%;
+}
